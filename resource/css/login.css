@@ -1,0 +1,42 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.container-fluid {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f7f7;
+}
+
+.login-form {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 150px;
+  height: 350px;
+  width: 420px;
+  padding: 25px;
+}
+
+
+.signup-form {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 30px;
+  height: 600px;
+  width: 420px;
+  padding: 25px;
+}
+
+
+.para-2 {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.para-2 a {
+  color: blue;
+}
